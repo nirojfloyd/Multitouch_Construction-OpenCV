@@ -1,0 +1,269 @@
+﻿Blobs_Tracking.obj : error LNK2001: unresolved external symbol memcpy
+NetworkingUtils.obj : error LNK2001: unresolved external symbol memcpy
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol memcpy
+Blobs.obj : error LNK2001: unresolved external symbol memcpy
+main.obj : error LNK2001: unresolved external symbol memcpy
+TuioTime.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+Blobs.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+main.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+NetworkingUtils.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+UdpSocket.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+TuioServer.obj : error LNK2001: unresolved external symbol _RTC_CheckStackVars
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+TuioServer.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+TuioTime.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+Blobs.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+main.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+NetworkingUtils.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+UdpSocket.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+OscTypes.obj : error LNK2001: unresolved external symbol _RTC_InitBase
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+TuioServer.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+TuioTime.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+Blobs.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+main.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+NetworkingUtils.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+UdpSocket.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+OscTypes.obj : error LNK2001: unresolved external symbol _RTC_Shutdown
+main.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+NetworkingUtils.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+UdpSocket.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+Blobs.obj : error LNK2001: unresolved external symbol __GSHandlerCheck
+main.obj : error LNK2001: unresolved external symbol __security_check_cookie
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __security_check_cookie
+NetworkingUtils.obj : error LNK2001: unresolved external symbol __security_check_cookie
+UdpSocket.obj : error LNK2001: unresolved external symbol __security_check_cookie
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol __security_check_cookie
+Blobs.obj : error LNK2001: unresolved external symbol __security_check_cookie
+main.obj : error LNK2001: unresolved external symbol __security_cookie
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __security_cookie
+NetworkingUtils.obj : error LNK2001: unresolved external symbol __security_cookie
+UdpSocket.obj : error LNK2001: unresolved external symbol __security_cookie
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol __security_cookie
+Blobs.obj : error LNK2001: unresolved external symbol __security_cookie
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+UdpSocket.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+TuioServer.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+main.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+UdpSocket.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+TuioServer.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+UdpSocket.obj : error LNK2019: unresolved external symbol "void * __cdecl operator new[](unsigned __int64)" (??_U@YAPEAX_K@Z) referenced in function "public: void __cdecl SocketReceiveMultiplexer::Implementation::Run(void)" (?Run@Implementation@SocketReceiveMultiplexer@@QEAAXXZ)
+TuioServer.obj : error LNK2001: unresolved external symbol "void * __cdecl operator new[](unsigned __int64)" (??_U@YAPEAX_K@Z)
+UdpSocket.obj : error LNK2019: unresolved external symbol "void __cdecl operator delete[](void *)" (??_V@YAXPEAX@Z) referenced in function "public: void __cdecl SocketReceiveMultiplexer::Implementation::Run(void)" (?Run@Implementation@SocketReceiveMultiplexer@@QEAAXXZ)
+TuioServer.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete[](void *)" (??_V@YAXPEAX@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+UdpSocket.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+TuioServer.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+Blobs.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+main.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+UdpSocket.obj : error LNK2019: unresolved external symbol memcmp referenced in function "bool __cdecl std::_Is_all_bits_zero<void *>(void * const &)" (??$_Is_all_bits_zero@PEAX@std@@YA_NAEBQEAX@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol memmove
+UdpSocket.obj : error LNK2001: unresolved external symbol memmove
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol memmove
+Blobs.obj : error LNK2001: unresolved external symbol memmove
+main.obj : error LNK2001: unresolved external symbol memmove
+UdpSocket.obj : error LNK2019: unresolved external symbol memset referenced in function "void __cdecl std::_Fill_zero_memset<void * *>(void * *,unsigned __int64)" (??$_Fill_zero_memset@PEAPEAX@std@@YAXPEAPEAX_K@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+UdpSocket.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+TuioServer.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+Blobs.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+main.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+UdpSocket.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+TuioServer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+UdpSocket.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+TuioServer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol __std_exception_copy
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __std_exception_copy
+UdpSocket.obj : error LNK2001: unresolved external symbol __std_exception_copy
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol __std_exception_copy
+TuioServer.obj : error LNK2001: unresolved external symbol __std_exception_copy
+Blobs.obj : error LNK2001: unresolved external symbol __std_exception_copy
+main.obj : error LNK2001: unresolved external symbol __std_exception_destroy
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __std_exception_destroy
+UdpSocket.obj : error LNK2001: unresolved external symbol __std_exception_destroy
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol __std_exception_destroy
+TuioServer.obj : error LNK2001: unresolved external symbol __std_exception_destroy
+Blobs.obj : error LNK2001: unresolved external symbol __std_exception_destroy
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+UdpSocket.obj : error LNK2001: unresolved external symbol "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+TuioServer.obj : error LNK2001: unresolved external symbol "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+UdpSocket.obj : error LNK2019: unresolved external symbol __imp_signal referenced in function "public: void __cdecl SocketReceiveMultiplexer::RunUntilSigInt(void)" (?RunUntilSigInt@SocketReceiveMultiplexer@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol _CxxThrowException
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol _CxxThrowException
+UdpSocket.obj : error LNK2001: unresolved external symbol _CxxThrowException
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol _CxxThrowException
+TuioServer.obj : error LNK2001: unresolved external symbol _CxxThrowException
+Blobs.obj : error LNK2001: unresolved external symbol _CxxThrowException
+main.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+UdpSocket.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+TuioServer.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+TuioTime.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+Blobs.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+main.obj : error LNK2001: unresolved external symbol "const type_info::`vftable'" (??_7type_info@@6B@)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "const type_info::`vftable'" (??_7type_info@@6B@)
+UdpSocket.obj : error LNK2001: unresolved external symbol "const type_info::`vftable'" (??_7type_info@@6B@)
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol "const type_info::`vftable'" (??_7type_info@@6B@)
+TuioServer.obj : error LNK2001: unresolved external symbol "const type_info::`vftable'" (??_7type_info@@6B@)
+Blobs.obj : error LNK2001: unresolved external symbol "const type_info::`vftable'" (??_7type_info@@6B@)
+main.obj : error LNK2001: unresolved external symbol _fltused
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol _fltused
+UdpSocket.obj : error LNK2001: unresolved external symbol _fltused
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol _fltused
+TuioServer.obj : error LNK2001: unresolved external symbol _fltused
+Blobs.obj : error LNK2001: unresolved external symbol _fltused
+OscOutboundPacketStream.obj : error LNK2019: unresolved external symbol strcpy referenced in function "public: class osc::OutboundPacketStream & __cdecl osc::OutboundPacketStream::operator<<(struct osc::BeginMessage const &)" (??6OutboundPacketStream@osc@@QEAAAEAV01@AEBUBeginMessage@1@@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol strlen
+OscOutboundPacketStream.obj : error LNK2001: unresolved external symbol strlen
+TuioServer.obj : error LNK2001: unresolved external symbol strlen
+Blobs.obj : error LNK2001: unresolved external symbol strlen
+main.obj : error LNK2001: unresolved external symbol strlen
+OscOutboundPacketStream.obj : error LNK2019: unresolved external symbol _RTC_AllocaHelper referenced in function "public: class osc::OutboundPacketStream & __cdecl osc::OutboundPacketStream::operator<<(struct osc::MessageTerminator const &)" (??6OutboundPacketStream@osc@@QEAAAEAV01@AEBUMessageTerminator@1@@Z)
+OscOutboundPacketStream.obj : error LNK2019: unresolved external symbol _RTC_CheckStackVars2 referenced in function "public: class osc::OutboundPacketStream & __cdecl osc::OutboundPacketStream::operator<<(struct osc::MessageTerminator const &)" (??6OutboundPacketStream@osc@@QEAAAEAV01@AEBUMessageTerminator@1@@Z)
+OscOutboundPacketStream.obj : error LNK2019: unresolved external symbol __chkstk referenced in function "public: class osc::OutboundPacketStream & __cdecl osc::OutboundPacketStream::operator<<(struct osc::MessageTerminator const &)" (??6OutboundPacketStream@osc@@QEAAAEAV01@AEBUMessageTerminator@1@@Z)
+main.obj : error LNK2001: unresolved external symbol __chkstk
+TuioServer.obj : error LNK2019: unresolved external symbol __imp_sqrtf referenced in function "public: float __cdecl TUIO::TuioPoint::getDistance(float,float)" (?getDistance@TuioPoint@TUIO@@QEAAMMM@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __imp_sqrtf
+TuioServer.obj : error LNK2019: unresolved external symbol "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ) referenced in function "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::~sentry(void)" (??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ)
+Blobs.obj : error LNK2001: unresolved external symbol "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ)
+main.obj : error LNK2001: unresolved external symbol "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ) referenced in function "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::sentry(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ) referenced in function "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::sentry(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ) referenced in function "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::~sentry(void)" (??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z) referenced in function "public: void __cdecl TUIO::TuioServer::addExternalTuioCursor(class TUIO::TuioCursor *)" (?addExternalTuioCursor@TuioServer@TUIO@@QEAAXPEAVTuioCursor@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z) referenced in function "public: void __cdecl TUIO::TuioServer::addExternalTuioCursor(class TUIO::TuioCursor *)" (?addExternalTuioCursor@TuioServer@TUIO@@QEAAXPEAVTuioCursor@2@@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(long)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@J@Z) referenced in function "public: void __cdecl TUIO::TuioServer::addExternalTuioCursor(class TUIO::TuioCursor *)" (?addExternalTuioCursor@TuioServer@TUIO@@QEAAXPEAVTuioCursor@2@@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(float)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@M@Z) referenced in function "public: void __cdecl TUIO::TuioServer::addExternalTuioCursor(class TUIO::TuioCursor *)" (?addExternalTuioCursor@TuioServer@TUIO@@QEAAXPEAVTuioCursor@2@@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(float)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@M@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(float)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@M@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(float)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@M@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+Blobs.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+TuioServer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A) referenced in function "public: void __cdecl TUIO::TuioServer::addExternalTuioCursor(class TUIO::TuioCursor *)" (?addExternalTuioCursor@TuioServer@TUIO@@QEAAXPEAVTuioCursor@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+Blobs.obj : error LNK2019: unresolved external symbol "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z) referenced in function "public: void * __cdecl std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::`vector deleting destructor'(unsigned int)" (??_E?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAAPEAXI@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z)
+Blobs.obj : error LNK2001: unresolved external symbol _purecall
+main.obj : error LNK2001: unresolved external symbol _purecall
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol _purecall
+Blobs.obj : error LNK2019: unresolved external symbol "void __cdecl operator delete[](void *,unsigned __int64)" (??_V@YAXPEAX_K@Z) referenced in function "public: void * __cdecl std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::`vector deleting destructor'(unsigned int)" (??_E?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAAPEAXI@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete[](void *,unsigned __int64)" (??_V@YAXPEAX_K@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete[](void *,unsigned __int64)" (??_V@YAXPEAX_K@Z)
+Blobs.obj : error LNK2019: unresolved external symbol atexit referenced in function "void __cdecl `dynamic atexit destructor for 'private: static struct cvflann::anyimpl::small_any_policy<int> cvflann::anyimpl::SinglePolicy<int>::policy''(void)" (??__F?policy@?$SinglePolicy@H@anyimpl@cvflann@@0U?$small_any_policy@H@23@A@@YAXXZ)
+main.obj : error LNK2001: unresolved external symbol atexit
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol atexit
+Blobs.obj : error LNK2019: unresolved external symbol __imp__calloc_dbg referenced in function "char * __cdecl std::_Maklocstr<char>(char const *,char *,struct _Cvtvec const &)" (??$_Maklocstr@D@std@@YAPEADPEBDPEADAEBU_Cvtvec@@@Z)
+main.obj : error LNK2001: unresolved external symbol __imp__calloc_dbg
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __imp__calloc_dbg
+Blobs.obj : error LNK2019: unresolved external symbol __imp_wcslen referenced in function "wchar_t * __cdecl std::_Maklocwcs(wchar_t const *)" (?_Maklocwcs@std@@YAPEA_WPEB_W@Z)
+main.obj : error LNK2001: unresolved external symbol __imp_wcslen
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol __imp_wcslen
+Blobs.obj : error LNK2019: unresolved external symbol "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ) referenced in function "char * __cdecl std::_Maklocstr<char>(char const *,char *,struct _Cvtvec const &)" (??$_Maklocstr@D@std@@YAPEADPEBDPEADAEBU_Cvtvec@@@Z)
+main.obj : error LNK2001: unresolved external symbol "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ)
+Blobs.obj : error LNK2019: unresolved external symbol _Mbrtowc referenced in function "wchar_t * __cdecl std::_Maklocstr<wchar_t>(char const *,wchar_t *,struct _Cvtvec const &)" (??$_Maklocstr@_W@std@@YAPEA_WPEBDPEA_WAEBU_Cvtvec@@@Z)
+main.obj : error LNK2001: unresolved external symbol _Mbrtowc
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol _Mbrtowc
+Blobs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (__imp_?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) referenced in function "protected: void __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::_Getvals<wchar_t>(wchar_t,class std::_Locinfo const &)" (??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (__imp_?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (__imp_?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ)
+Blobs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getdays(void)const " (__imp_?_Getdays@_Locinfo@std@@QEBAPEBDXZ) referenced in function "protected: void __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::_Getvals<wchar_t>(wchar_t,class std::_Locinfo const &)" (??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getdays(void)const " (__imp_?_Getdays@_Locinfo@std@@QEBAPEBDXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getdays(void)const " (__imp_?_Getdays@_Locinfo@std@@QEBAPEBDXZ)
+Blobs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getmonths(void)const " (__imp_?_Getmonths@_Locinfo@std@@QEBAPEBDXZ) referenced in function "protected: void __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::_Getvals<wchar_t>(wchar_t,class std::_Locinfo const &)" (??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getmonths(void)const " (__imp_?_Getmonths@_Locinfo@std@@QEBAPEBDXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getmonths(void)const " (__imp_?_Getmonths@_Locinfo@std@@QEBAPEBDXZ)
+Blobs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (__imp_?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ) referenced in function "protected: void __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::_Getvals<wchar_t>(wchar_t,class std::_Locinfo const &)" (??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (__imp_?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (__imp_?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ)
+Blobs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (__imp_?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ) referenced in function "protected: void __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::_Getvals<wchar_t>(wchar_t,class std::_Locinfo const &)" (??$_Getvals@_W@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IEAAX_WAEBV_Locinfo@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (__imp_?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (__imp_?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ)
+Blobs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(bool)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z) referenced in function "public: virtual void __cdecl cvflann::anyimpl::small_any_policy<bool>::print(class std::basic_ostream<char,struct std::char_traits<char> > &,void * const *)" (?print@?$small_any_policy@_N@anyimpl@cvflann@@UEAAXAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@PEBQEAX@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(bool)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(bool)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_N@Z)
+Blobs.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z) referenced in function "public: virtual void __cdecl cvflann::anyimpl::small_any_policy<unsigned int>::print(class std::basic_ostream<char,struct std::char_traits<char> > &,void * const *)" (?print@?$small_any_policy@I@anyimpl@cvflann@@UEAAXAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@PEBQEAX@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z)
+Blobs_Tracking.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPEBD@Z) referenced in function "public: static void __cdecl std::_String_val<struct std::_Simple_types<char> >::_Xran(void)" (?_Xran@?$_String_val@U?$_Simple_types@D@std@@@std@@SAXXZ)
+main.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned __int64)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_K@Z) referenced in function main
+main.obj : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+Blobs_Tracking.obj : error LNK2019: unresolved external symbol sqrt referenced in function "double __cdecl cv::norm<float>(class cv::Point_<float> const &)" (??$norm@M@cv@@YANAEBV?$Point_@M@0@@Z)
+    Hint on symbols that are defined and could potentially match:
+      "float __cdecl sqrt(float)" (?sqrt@@YAMM@Z)
+LINK : error LNK2001: unresolved external symbol mainCRTStartup
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\onecore\x86\MSVCRTD.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\onecore\x86\msvcprtd.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Niroj\Desktop\Bachelors\SoSe\MultitouchConstruction\multi-touch(Final)\x64\Debug\mt_framework_2019_cv.4.11.exe : fatal error LNK1120: 72 unresolved externals

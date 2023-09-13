@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-mt_framework_2019_cv.4.11",
+      "appliesTo": "mt_framework_2019_cv.4.11.sln",
+      "type": "launch"
+    }
+  ]
+}
