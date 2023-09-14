@@ -1,9 +1,7 @@
 # Multitouch-Construction-OpenCV
-
 • Utilized C++ within the OPENCV framework to detect and track video stream blobs.
 • Successfully integrated the TUIO Framework into the project.
 
-- 
 ## Results
 
 ![image](https://github.com/nirojfloyd/Multitouch_Construction-OpenCV/assets/65107710/42d5f98a-c145-42e2-be82-0d1a634713a9)
